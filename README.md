@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/04bf04ea-fb5d-453a-bc15-ee039b2caada)
+
+
 [![github](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp.svg)]()
 
 # KirkBot
